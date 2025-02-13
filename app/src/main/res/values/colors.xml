@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary color of your app -->
+    <color name="colorPrimary">#6200EE</color> <!-- Purple -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Darker purple -->
+    <color name="colorAccent">#03DAC5</color> <!-- Teal Accent -->
+
+    <!-- Background colors -->
+    <color name="colorBackground">#F5F5F5</color> <!-- Light gray background -->
+    <color name="colorWhite">#FFFFFF</color> <!-- White color -->
+
+    <!-- Button color -->
+    <color name="colorButtonBackground">#FF6200EE</color> <!-- Purple color for buttons -->
+</resources>
